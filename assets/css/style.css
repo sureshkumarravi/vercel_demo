@@ -7,12 +7,11 @@
 
 header
 {
-	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(../img/bg_pic2.jpg);
-	height: 120vh;
-	background-size: cover;
-	background-position: center;
+	/*background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(../img/bg_pic3.jpg); */
+	/*background-size: cover;
+	background-position: center; */
 }
-
+/*
 .main-nav
 {
 	float: right;
@@ -49,52 +48,85 @@ header
 	height:auto;
 	float: left;
 }
-
+*/
 body
 {
 	font-family:monospace;
+	background-color: #031321;
+	display: flex;
+	justify-content: left; 
+	align-items: center;
+	margin-top: 300px;
+	margin-left: 550px;
+	
 }
 
-.row
+/* .row
 {
-	max-width:1200px;
+	max-width:100%;
 	margin:auto;
-}
+} */
 
 .play
 {
-	position: absolute;
-	margin-left: 0px;
+	position: relative;
 	margin-top: 0px;
-	width: 1200px;
+	width: auto;
+
 }
 
-h1
+ h1
 {
 	color:white;
 	text-transform: uppercase;
 	font-size:70px;
 	text-align: center;
-	margin-top: 550px;
-}
+	font-weight: 900;
+	line-height: 1em;
+	line-height: 250px;
 
+} 
+
+a
+{
+	margin-top: 100px;
+	margin-left: 0px;
+	width: auto;
+	position: absolute;
+	text-align: center;
+	font-weight: 700;
+	font-size:50px;
+	text-decoration: none; 
+
+}
 .button
 {
-	margin-top: 30px;
-	margin-left: 440px;
+
 }
-.btn
+.btn:hover
 {
- border:1px solid white;
- padding: 10px 30px;
- color: white;
- text-decoration: none;
- margin-right: 5px;
- font-size:13px;
- text-transform: uppercase;
-}
+	color: #35ad67 ;
+	background: #18d821;
+	box-shadow: 0 0 10px #18d821 , 0 0 25px #18d821 , 0 0 50px #18d821; 
+} 
+
 .btn-one
 {
-	background-color: darkorange;
-	font-family: "Roboto", sans-serif;
+	color: #10bfeb ;
+	text-decoration: none;
+	margin-top: 100px;
+	margin-left: 0px;
+	width: auto;
+	position: relative;
+
+}
+.btn-two
+{
+	color: #ceae1f ;
+	text-decoration: none; 
+	margin-top: 100px;
+	margin-left: 0px;
+	width: auto;
+	position: relative;
+
 }
