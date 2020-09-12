@@ -1,0 +1,46 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 623px}
+.u-section-1 .u-group-1 {width: 950px; min-height: 284px; height: auto; margin: 181px auto 0 95px}
+.u-section-1 .u-container-layout-1 {padding: 28px 30px 30px}
+.u-section-1 .u-text-1 {font-family: "Fredoka One"; font-size: 4.5rem; font-weight: 300; margin: 14px 0 0}
+.u-section-1 .u-text-2 {font-size: 1.25rem; font-weight: 300; margin: 33px 0 0}
+.u-section-1 .u-text-3 {font-style: italic; margin: 10px 361px 0 auto}
+.u-section-1 .u-layout-wrap-1 {width: 718px; margin: 0 auto}
+.u-section-1 .u-layout-cell-1 {min-height: 58px}
+.u-section-1 .u-container-layout-2 {padding: 0 20px 0 30px}
+.u-section-1 .u-btn-1 {background-image: none; letter-spacing: 1px; border-style: none; box-shadow: 0 0 7px 0 rgba(71,138,201,0.7); text-shadow: 0 0 0 rgba(0,0,0,0); font-size: 1.125rem; font-weight: 600; text-transform: none; margin: -1px 0 0 auto; padding: 15px 39px 15px 38px}
+.u-section-1 .u-layout-cell-2 {min-height: 58px}
+.u-section-1 .u-container-layout-3 {padding: 0 30px 0 20px}
+.u-section-1 .u-btn-2 {border-style: solid; font-size: 1.125rem; letter-spacing: 0; text-transform: uppercase; font-weight: 700; margin: 0 auto 0 0; padding: 12px 46px 12px 45px}
+.u-section-1 .u-group-2 {width: 287px; min-height: 81px; height: auto; margin: 12px 404px 7px auto}
+.u-section-1 .u-container-layout-4 {padding: 0 30px}
+.u-section-1 .u-image-1 {width: 53px; height: 53px; background-image: url("images/profile.jpg"); background-position: 50% 50%; margin: 0 auto 0 7px}
+.u-section-1 .u-text-4 {font-size: 1.375rem; font-weight: 700; margin: -39px -13px 13px 83px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-group-1 {width: 940px; margin-left: 0} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 645px}
+.u-section-1 .u-group-1 {width: 720px}
+.u-section-1 .u-text-1 {font-size: 4.1875rem}
+.u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 691px}
+.u-section-1 .u-group-1 {width: 540px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-1 {font-size: 3rem}
+.u-section-1 .u-layout-wrap-1 {width: 540px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px; padding-bottom: 20px}
+.u-section-1 .u-btn-1 {margin-right: auto}
+.u-section-1 .u-layout-cell-2 {min-height: 78px}
+.u-section-1 .u-container-layout-3 {padding-right: 10px; padding-left: 10px}
+.u-section-1 .u-btn-2 {margin-left: auto}
+.u-section-1 .u-group-2 {margin-right: 253px}
+.u-section-1 .u-container-layout-4 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 755px}
+.u-section-1 .u-group-1 {width: 340px}
+.u-section-1 .u-text-3 {margin-right: 222px}
+.u-section-1 .u-layout-wrap-1 {width: 340px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px}
+.u-section-1 .u-group-2 {margin-right: 53px} }
